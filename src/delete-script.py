@@ -20,7 +20,7 @@ import time
 # Paste your folder's absolute path below
 # For example it can be–
 # ARCHIVE_PATH = "/Users/mayur57/Desktop/archive"
-ARCHIVE_PATH = ""
+ARCHIVE_PATH = "C:\Users\kids_\OneDrive\Desktop\ABC213A"
 JS_FILE = ARCHIVE_PATH + "/data/tweet.js"
 JSON_FILE = ARCHIVE_PATH + "/data/deleter.json"
 DELETED_TWEETS = ARCHIVE_PATH + "/data/deleted_tweets.txt"
@@ -47,7 +47,7 @@ tweets_to_delete = []
 # Number of tweets to be deleted by each thread.
 # Smaller batch size means faster deletion but may strain the CPU.
 # Recommended value is <500> tweets per thread.
-batch_size = 500
+batch_size = 400
 
 def process_tweet_json(JS_FILE):
     print("\n\n>> Processing your tweet.js file and converting it to a JSON.")
