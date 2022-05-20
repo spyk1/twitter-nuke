@@ -36,10 +36,10 @@ RETWEETS=0
 LIKES=40
 
 # Generate your own Twitter API keys and edit them here
-consumer_key = 'xxxxxxxx'
-consumer_secret = 'xxxxxxxx'
-access_token = 'xx-xxxxxx'
-access_token_secret = 'xxxxxxxx'
+consumer_key = 'JRaSyqErm4AUnNDP7yFeS6pw1'
+consumer_secret = '5zpOTyoWloQeCM9xOohnHc9Ss0w83nwAd1pQcLfN30orsoalSQ'
+access_token = '1274363456150519811-kVMyF825fQRMsMZVhtPQjsHXILGeJH'
+access_token_secret = 'zdr3neQH5i0RULQHc7RpJXLazObtStu2AsInApNTSDNfK'
 
 skipped_tweets = []
 tweets_to_delete = []
