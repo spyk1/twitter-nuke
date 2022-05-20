@@ -20,7 +20,7 @@ import time
 # Paste your folder's absolute path below
 # For example it can be–
 # ARCHIVE_PATH = "/Users/mayur57/Desktop/archive"
-ARCHIVE_PATH = "C:\Users\kids_\OneDrive\Desktop\ABC213A"
+ARCHIVE_PATH = "C:\Users\kids_\OneDrive\Desktop\archive"
 JS_FILE = ARCHIVE_PATH + "/data/tweet.js"
 JSON_FILE = ARCHIVE_PATH + "/data/deleter.json"
 DELETED_TWEETS = ARCHIVE_PATH + "/data/deleted_tweets.txt"
